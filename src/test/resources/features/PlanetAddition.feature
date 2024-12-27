@@ -22,7 +22,7 @@ Feature: Planet Addition
         And     the user should stay on the home page
 
     Examples:
-    |planet name                       |file type                                                                                                                |alert                    |
+    |planet name                       |file type                                                                                                                |alert              |
     |                                  |C:\\Users\\nafis\\Desktop\\Revature\\Project 1\\Planetarium\\src\\test\\resources\\Celestial-Images\\planet-2.jpg        |Invalid planet name|
     |This planet name is wayyy too long|C:\\Users\\nafis\\Desktop\\Revature\\Project 1\\Planetarium\\src\\test\\resources\\Celestial-Images\\planet-2.jpg        |Invalid planet name|
     |oHno?!                            |C:\\Users\\nafis\\Desktop\\Revature\\Project 1\\Planetarium\\src\\test\\resources\\Celestial-Images\\planet-2.jpg        |Invalid planet name|
