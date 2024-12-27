@@ -27,4 +27,4 @@ Feature: Planet Addition
     |This planet name is wayyy too long|C:\\Users\\nafis\\Desktop\\Revature\\Project 1\\Planetarium\\src\\test\\resources\\Celestial-Images\\planet-2.jpg        |Invalid planet name|
     |oHno?!                            |C:\\Users\\nafis\\Desktop\\Revature\\Project 1\\Planetarium\\src\\test\\resources\\Celestial-Images\\planet-2.jpg        |Invalid planet name|
     |Earth                             |C:\\Users\\nafis\\Desktop\\Revature\\Project 1\\Planetarium\\src\\test\\resources\\Celestial-Images\\planet-2.jpg        |Invalid planet name|
-    |Planet name-_-1                   |C:\\Users\\nafis\\Desktop\\Revature\\Project 1\\Planetarium\\src\\test\\resources\\Celestial-Images\\planets.pdf         |invalid file type alert  |
+    |Planet name-_-1                   |C:\\Users\\nafis\\Desktop\\Revature\\Project 1\\Planetarium\\src\\test\\resources\\Celestial-Images\\planets.pdf         |Invalid file type  |
