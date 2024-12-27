@@ -31,6 +31,7 @@ public class PlanetAdditionSteps {
 
     @Then("the user should see the created planet on home page")
     public void the_user_should_see_the_created_planet_on_home_page() {
+        //TODO:fix to see the actual element
         TestRunner.wait.until(ExpectedConditions.numberOfElementsToBe(By.tagName("tr"), 6));
         Assert.assertEquals(5, TestRunner.homePage.getNumberOfCelestialRows());
     }
